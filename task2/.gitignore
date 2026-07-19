@@ -1,0 +1,17 @@
+# Large datasets
+cs-training.csv
+cs-test.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local editor settings
+.vscode/
+
+# Logs
+*.log
+
+# Large model payloads (keep them local)
+*.joblib
+*.pkl
